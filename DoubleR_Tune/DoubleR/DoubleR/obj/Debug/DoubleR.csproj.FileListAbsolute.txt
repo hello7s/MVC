@@ -52,3 +52,4 @@ C:\Users\root\Documents\GitHub\MVC\DoubleR_Tune\DoubleR\DoubleR\bin\Microsoft.Ow
 C:\Users\root\Documents\GitHub\MVC\DoubleR_Tune\DoubleR\DoubleR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\root\Documents\GitHub\MVC\DoubleR_Tune\DoubleR\DoubleR\obj\Debug\DoubleR.dll
 C:\Users\root\Documents\GitHub\MVC\DoubleR_Tune\DoubleR\DoubleR\obj\Debug\DoubleR.pdb
+C:\Users\root\Documents\GitHub\MVC\DoubleR_Tune\DoubleR\DoubleR\obj\Debug\DoubleR.csprojResolveAssemblyReference.cache

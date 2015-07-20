@@ -29,5 +29,7 @@ namespace DoubleR.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<DoubleR.Models.TuneRummy> TuneRummies { get; set; }
     }
 }
